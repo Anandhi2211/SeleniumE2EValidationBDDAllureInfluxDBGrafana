@@ -1,0 +1,7 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","4995","Verify if the Product Page Loads correctly","","Fri Feb 28 15:45:05 EST 2025","passed","Fri Feb 28 15:45:10 EST 2025","","Product Page UI Validation","Verify if the Product Page Loads correctly",""
+"","3273","Test Validation with valid Credentials","","Fri Feb 28 15:44:59 EST 2025","passed","Fri Feb 28 15:45:02 EST 2025","","Login Validation Feature","Test Validation with valid Credentials",""
+"","4342","Add the products to the cart","","Fri Feb 28 15:45:10 EST 2025","passed","Fri Feb 28 15:45:15 EST 2025","","Product Page UI Validation","Add the products to the cart",""
+"","4235","Verification of UI Elements","","Fri Feb 28 15:44:54 EST 2025","passed","Fri Feb 28 15:44:59 EST 2025","","Login Validation Feature","Verification of UI Elements",""
+"","3581","Cart Page Validation","","Fri Feb 28 15:45:15 EST 2025","passed","Fri Feb 28 15:45:18 EST 2025","","Product Page UI Validation","Cart Page Validation",""
+"","3128","Test Validation with Invalid Credentials","","Fri Feb 28 15:45:02 EST 2025","passed","Fri Feb 28 15:45:05 EST 2025","","Login Validation Feature","Test Validation with Invalid Credentials",""

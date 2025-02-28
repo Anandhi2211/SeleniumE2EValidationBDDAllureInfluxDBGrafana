@@ -1,0 +1,17 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+.idea/
+*.iml
+.vscode/
+*.log
+SCREENSHOT/
+/target
+
+# Allure Reports
+allure-results/
+allure-report/
+.allure
+*.json
+*.xml
+*.html

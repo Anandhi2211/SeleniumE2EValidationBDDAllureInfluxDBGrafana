@@ -1,0 +1,5 @@
+org\webTesting\pages\CartPage.class
+org\webTesting\pages\components\ProductComponents.class
+org\webTesting\utils\ElementUtil.class
+org\webTesting\pages\ProductPage.class
+org\webTesting\pages\LoginPage.class
