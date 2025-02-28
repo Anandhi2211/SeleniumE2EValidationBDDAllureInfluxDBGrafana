@@ -1,4 +1,0 @@
-"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
-"","5541","Verification of UI Elements","","Thu Feb 27 16:31:32 EST 2025","passed","Thu Feb 27 16:31:38 EST 2025","","Login Validation Feature","Verification of UI Elements",""
-"","2873","Test Validation with Invalid Credentials","","Thu Feb 27 16:31:42 EST 2025","passed","Thu Feb 27 16:31:45 EST 2025","","Login Validation Feature","Test Validation with Invalid Credentials",""
-"","3619","Test Validation with valid Credentials","","Thu Feb 27 16:31:38 EST 2025","passed","Thu Feb 27 16:31:42 EST 2025","","Login Validation Feature","Test Validation with valid Credentials",""
