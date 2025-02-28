@@ -1,5 +1,0 @@
-stepDefinition\Hooks.class
-stepDefinition\ProductPageStepDefinition.class
-cucumber\Options\TestRunner.class
-stepDefinition\InfluxLogger.class
-stepDefinition\LoginPageStepDefinition.class
